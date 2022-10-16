@@ -1,0 +1,22 @@
+html{
+    cursor: url(./imagens/mata_mosca.png) 30 30, auto;
+}
+
+body{
+    background-image: url(./imagens/lula-venceu.jpeg);
+    background-size: 100%;
+}
+
+button{
+    margin-left: 300px;
+    margin-top: 200px;
+    height: 100px;
+    width: 300px;
+    background-color: blueviolet;
+    cursor: pointer;
+    border: none;
+}
+
+button:hover{
+    background-color: rgb(182, 138, 223);
+}

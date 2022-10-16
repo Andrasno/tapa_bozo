@@ -1,0 +1,21 @@
+html{
+    cursor: url(./imagens/mata_mosca.png) 30 30, auto;
+}
+
+body{
+    background-image: url(./imagens/democracia.webp);
+    background-size: 100%;
+}
+
+button{
+    margin: 30px 600px;
+}
+
+.mb-2{
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 380px;
+    margin-bottom: 0;
+    background-color: rgb(234, 183, 183);
+    
+}
